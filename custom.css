@@ -1,0 +1,44 @@
+#zodiaco-app{
+    padding-right: 1rem;
+    line-height: 1.2;
+}
+
+#zodiaco-app .box:first-child{
+    margin-top: 1rem;
+    padding-top: .5rem;
+}
+
+#zodiaco-app h1{
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: .5rem 0 .5rem 0;
+    line-height: 1.3;
+}
+
+#zodiaco-app h2{
+    padding: 0 0 .5rem;
+}
+
+#zodiaco-app p{
+    padding: .1rem 0;
+    font-size: 1rem;
+}
+
+#zodiaco-app .columns{
+    margin-bottom: 0;
+}
+
+#zodiaco-app .selector-columns{
+    overflow-x: auto;
+    margin-bottom: 0;
+}
+
+#zodiaco-app .selector-columns .button{
+    width: 100%;
+}
+
+#zodiaco-app .textarea{
+    font-size: .95rem;
+    line-height:1.1;
+}

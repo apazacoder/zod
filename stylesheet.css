@@ -1,0 +1,14 @@
+/* styles of local development*/
+/*
+header{
+    display:none;
+}
+*/
+#localdev-wrapper table{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+#localdev-wrapper .post-inner{
+    padding-top: 0 !important;
+}
+
